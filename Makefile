@@ -3,7 +3,7 @@
 # project subdirectory.
 #
 
-PROJECT_NAME := app-template
+PROJECT_NAME := softap_prov
 
 include $(IDF_PATH)/make/project.mk
 

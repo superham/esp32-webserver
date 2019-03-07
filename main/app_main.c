@@ -224,4 +224,3 @@ int app_main(void)
     xTaskCreate(&http_server, "http_server", 2048, NULL, 5, NULL);
     return 0;
 }
-
